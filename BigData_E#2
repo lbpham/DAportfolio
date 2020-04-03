@@ -1,0 +1,104 @@
+Student name: Linh Bao Pham
+
+{...
+ ProductName: 'NoSQL for Mere Mortals - 1st Edition',
+ Author: {name: 'Dan Sullivan Sullivan'
+         bio: 'Dan Sullivan is an enterprise qrchitect specializing in data architecture, analytics, /data mining, statistics, data modeling, Big Data, cloud computing, bioinformatics and computational biology. He work regularly with Spark, Oracle, NoSQL, MongoDB, Redis, R, and Python, He has extensive writing experience in topics including cloud computing, big data, Hadoop and security.'},
+ Rating: {score: 4,
+          n.review: 13},
+ Price: {kindle: 24.10,
+         paperback: {new: 49.99, used: 72.20}}
+ ISBN: '978-0134023212'
+ Product details:{Series: 'For Mere Mortals',
+                  Publisher: 'Addison-Wesley Professional';
+                  Language: 'English',
+                  Product Dimensions: '7 x 1.2 x 9.1 inches',
+                  Shipping Weight: 2,
+                  Amazon Best Sellers Rank:{Top Books: 890146,
+                                            Network Storage & Retrieval Administration:279, 
+                                            Data Mining:501,
+                                            SQL:307} 
+}
+
+==============================================================
+ 
+{...
+ ProductName: "Men's Witherspoon Watch",
+ Rating: {score: 3,
+          n.review: 3},
+ Price: 93.15,
+ Product description: {Package Dimensions: {}'10.3 x 2 x 1.6 inches',
+                       Shipping Weight: 1.6,
+                       ASIN: B0056AW6XI,
+                       Item model number: 4332861504,
+                       Amazon Best Sellers Rank: {Clothing-Shoes-Jewelry:6517715, 
+                                                  Mens Wrist Watches:65947,
+                                                  Mens Shops:2237206}
+ Product specification:{Producer: {Brand: 'Project Watches',
+                                   Model number:4332861504,
+                                   Part Number: '7106R'},
+                        Item Shape: 'Round/Oval',
+                        Dial window material type: 'Mineral',
+                        Display Type: 'Analog',
+                        Clasp: 'Tang Buckle',
+                        Case: {Case material: 'Stainless steel',
+                               Case diameter: 40,
+                               Case Thickness: 8.85},
+                        Band: {Band Material: Leather,
+                               Band length: "Men's Standard",
+                               Band width: 20,
+                               Band Color: 'Black'},
+                        Dial color: 'Orange',
+                        Bezel: {Bezel material: 'Stainless steel',
+                                Bezel function: 'Stationary'}
+                        Special features: 'Water resistant',
+                        Movement: 'Analog Quartz'
+                        Water resistant depth: 30}
+}
+
+==============================================================
+{...
+ ProductName: "Champion Men's Classic Jersey T-Shirt",
+ Brand: 'Champion'
+ Rating: {score: 4.3,
+          n.review: 2045},
+ Color: ['Black','Maroon','Granite Heather','Navy','Oxford Grey','Team Gold', 'Dark Green','Oatmeal Heather']
+ Size: ['small','medium','large','extra-large']
+ Product description: {Shipping Weight: 12.8,
+                       ASIN: B07NXZWWPJ,
+                       Item model number: 4332861504,
+                       Amazon Best Sellers Rank: {Sports & Outdoors: 417, 
+                                                  Mens Sports T-Shirts: 1,
+                                                  Mens Running Clothing: 55}
+ Customer questions answers:{{q: 'What does athletic fit mean?',
+                              a: "Athletic fit sounds as if it would be more tight fitted but no it's not",
+                              vote:0},
+                             {q: 'Are these fake ?',
+                              a: "I am not sure what fake means to you but they are very nice shirts and I am very happy with them.",
+                              vote:0},
+                             {q: 'Is the gold shirt short?',
+                              a: "Did not buy gold shirt, but should be the same as other colors",
+                              vote:0}}
+}
+ 
+==============================================================
+{...
+ ProductName: "Echo Dot (3rd Gen) - Smart speaker with Alexa",
+ Brand: 'Amazon'
+ Price: 64.99,
+ Status: 'In Stock',
+ Rating: {score: 4.7,
+          n.review: 324,633},
+ Color: ['Charcoal','Heather Grey','Plum','Sandstone','Kid Blue','Kid Rainbow'],
+ Style: ['Echo Dot','Echo Dot Kid Edition','Echo Dot with clock (Sandstone only)'],
+ Configuration: ['Device only','with $10 Smart Plug','with $5 smart bulb','with $10 Echo Auto','with Echo Glow']
+ Customer questions answers:{{q: 'Any accessory recommend for echo dot 3rd?',
+                              a: "yes, I highly recommend you the GGMM D3 battery base to make my echo dot portable, I mean this one: https://www.amazon.com/dp/B07Y81JH2Q",
+                              vote:21},
+                             {q: 'Does echo dot 3rd work outsides when unplugged?',
+                              a: 'you need a battery base to use outside when unplugged, I tried this D3 battery base: https://www.amazon.com/dp/B07Y81JH2Q',
+                              vote:16},
+                             {q: 'can you have multiple dots throughout the house and send a message from one to the other?',
+                              a: 'I have six Echo s peakers (four are Dots) and its as easy as saying “alexa, announce: “Dinner is ready”” and all devices in the house will repeat your message.',
+                              vote:5}}
+} 
