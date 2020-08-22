@@ -1,0 +1,64 @@
+﻿city_id,city,capital_center,area,population,density,urban,HDI,GDP/capital,region
+1,Ha Noi,Hoan Kiem District,3119,7331909,2068.6,41,0.794,3923.21,Red River Delta
+2,Ha Giang,Ha Giang,7945.8,724537,91.2,11.6,0.586,1083.72,Northeast
+4,Cao Bang,Cao Bang,6724.6,507183,75.4,16.9,0.653,1564.27,Northeast
+6,Bac Kan,Bac Kan,4868.4,293826,60.4,16.1,0.685,1766.68,Northeast
+8,Tuyen Quang,Tuyen Quang,5870.4,724821,123.5,13,0.699,1948.18,Northeast
+10,Lao Cai,Lao Cai,6383.9,614595,96.3,21,0.67,2767.55,Northeast
+11,Dien Bien,Dien Bien Phu,9562.5,490306,51.3,15,0.611,1589.03,Northwest
+12,Lai Chau,Lai Chau,9112.3,370502,40.7,14.2,0.56,1081.84,Northwest
+14,Son La,Son La,14174.4,1076055,75.9,13.8,0.634,1773.9,Northwest
+15,Yen Bai,Yen Bai,6899.5,740397,107.3,18.8,0.657,1845.51,Northeast
+17,Hoa Binh,Hoa Binh,4684.2,785217,167.6,15,0.715,2343.13,Northwest
+19,Thai Nguyen,Thai Nguyen,3546.6,1123116,316.7,25.6,0.741,2547.11,Northeast
+20,Lang Son,Lang Son,8331.2,732515,87.9,19.2,0.707,2201.98,Northeast
+22,Quang Ninh,Ha Long,6099,1144988,187.7,51.9,0.784,7834.55,Northeast
+24,Bac Giang,Bac Giang,3827.4,1554131,406.1,9.4,0.711,1909.44,Northeast
+25,Phu Tho,Viet Tri,3528.4,1316389,373.1,15.8,0.715,1916.23,Northeast
+26,Vinh Phuc,Vinh Yen,1373.2,999786,728.1,22.4,0.764,3990.61,Red River Delta
+27,Bac Ninh,Bac Ninh,823.1,1024472,1244.7,23.5,0.771,4451.41,Red River Delta
+30,Hai Duong,Hai Duong,1652.8,1705059,1031.6,19,0.746,2513.92,Red River Delta
+31,Hai Phong,Hong Bang District,1520.7,1976173,1208.1,46.1,0.773,3849.18,Red River Delta
+33,Hung Yen,Hung Yen,923.5,1127903,1221.3,12.1,0.743,2503.79,Red River Delta
+34,Thai Binh,Thai Binh,1546.5,1781842,1152.1,9.7,0.738,2090.86,Red River Delta
+35,Ha Nam,Phu Ly,859.7,784045,912,9.5,0.724,2131.93,Red River Delta
+36,Nam Dinh,Nam Dinh,1650.8,1828111,1107.4,17.6,0.726,1904.97,Red River Delta
+37,Ninh Binh,Ninh Binh,1392.4,898999,645.6,17.9,0.733,2478.79,Red River Delta
+38,Thanh Hoa,Thanh Hoa,11136.3,3400595,305.4,10.4,0.716,2434.69,North Central Coast
+40,Nghe An,Vinh,16498.5,2912041,176.5,12.9,0.715,2379.59,North Central Coast
+42,Ha Tinh,Ha Tinh,5990.6,1227038,203.6,14.9,0.725,2117.32,North Central Coast
+44,Quang Binh,Dong Hoi,8065.3,844893,104.8,15,0.716,2203.01,North Central Coast
+45,Quang Tri,Dong Ha,4760.1,598324,125.7,27.4,0.696,2672.1,North Central Coast
+46,Thua Thien - Hue,Hue,5065.3,1087420,214.7,36,0.735,3072.58,North Central Coast
+48,Da Nang,Hai Chau District,1257.3,887435,705.8,86.9,0.803,4811.58,South Central Coast
+49,Quang Nam,Tam Ky,10438.3,1422319,136.3,18.6,0.745,3192.34,South Central Coast
+51,Quang Ngai,Quang Ngai,5152.7,1216773,236.1,14.6,0.718,3516.44,South Central Coast
+52,Binh Dinh,Qui Nhon,6039.6,1486465,246.1,27.7,0.742,3089.1,South Central Coast
+54,Phu Yen,Tuy Hoa,5060.6,862231,170.4,21.8,0.728,2541.8,South Central Coast
+56,Khanh Hoa,Nha Trang,5217.6,1157604,221.9,39.9,0.752,4180.68,South Central Coast
+58,Ninh Thuan,Phan Rang-Thap Cham,3363.1,564993,168,36.1,0.695,2402.34,South Central Coast
+60,Binh Thuan,Phan Thiet,7836.9,1167023,148.9,39.3,0.732,3090.17,South Central Coast
+62,Kon Tum,Kon Tum,9690.5,430133,44.4,33.5,0.656,2075.42,Central Highlands
+64,Gia Lai,Pleiku,15536.9,1274412,82,28.6,0.689,3023.2,Central Highlands
+66,Dak Lak,Buon Ma Thuot,13139.2,1733624,131.9,24,0.708,2555.78,Central Highlands
+67,Dak Nong,Gia Nghia,6516.9,489382,75.1,14.7,0.71,3000.7,Central Highlands
+68,Lam Dong,Da Lat,9776.1,1187574,121.5,37.8,0.735,3331.8,Central Highlands
+70,Binh Phuoc,Dong Xoai,6883.4,873598,126.9,16.5,0.734,3606.56,Southeast
+72,Tay Ninh,Tay Ninh,4035.9,1066513,264.3,15.6,0.744,4058.65,Southeast
+74,Binh Duong,Thu Dau Mot,2696.2,1481550,549.5,29.9,0.751,3663.54,Southeast
+75,Dong Nai,Bien Hoa,5903.9,2486154,421.1,33.2,0.763,3485.16,Southeast
+77,Ba Ria - Vung Tau,Ba Ria,1989.6,996682,500.9,49.9,0.901,36786.39,Southeast
+79,TP. Ho Chi Minh,District 1,2095.1,8262864,3418.9,83.3,0.82,7147.09,Southeast
+80,Long An,Tan An,4493.8,1436066,319.6,17.4,0.764,4012.39,Mekong Delta
+82,Tien Giang,My Tho,2484.2,1672271,673.2,13.7,0.77,3781.77,Mekong Delta
+83,Ben Tre,Ben Tre,2360.2,1255946,532.1,9.9,0.75,2978.48,Mekong Delta
+84,Tra Vinh,Tra Vinh,2295.1,1003012,437,15.3,0.717,2662.89,Mekong Delta
+86,Vinh Long,Vinh Long,1479.1,1024707,692.8,15.3,0.757,3360.01,Mekong Delta
+87,Dong Thap,Cao Lanh,3376.4,1666467,493.9,17.8,0.718,2240.56,Mekong Delta
+89,An Giang,Long Xuyen,3536.8,2142709,605.8,28.4,0.73,3791.46,Mekong Delta
+91,Kien Giang,Rach Gia,6348.3,1688248,265.9,27,0.75,4336.43,Mekong Delta
+92,Can Tho,Ninh Kieu District,1401.6,1188435,847.9,65.9,0.788,6260.52,Mekong Delta
+93,Hau Giang,Vi Thanh,1601.1,757300,473,19.6,0.743,2943.84,Mekong Delta
+94,Soc Trang,Soc Trang,3312.3,1292853,390.3,19.4,0.715,2835.46,Mekong Delta
+95,Bac Lieu,Bac Lieu,2584.1,856518,331.5,26.1,0.742,3701.98,Mekong Delta
+96,Ca Mau,Ca Mau,5331.7,1206938,226.4,20.4,0.743,3121.66,Mekong Delta
