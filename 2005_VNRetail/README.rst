@@ -22,7 +22,7 @@ Bugs & Contribution
 ===================
 
 Please use Github to report bugs, feature requests and submit your code:
-http://github.com/centralniak/project-name
+http://github.com/lbpham/DAportfolio/2005_VNRetail
 
 :author: Linh Pham (@lbpham)
 :date: 2020/08/17
